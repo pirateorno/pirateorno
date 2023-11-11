@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi! My name is Sasha and 
 
 ![pirateorno's GitHub stats](https://github-readme-stats.vercel.app/api?username=pirateorno&theme=dark&show_icons=true)
+
+### Here is my top 3 projects (i think so)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pirateorno&repo=screen-camera-capture&show_owner=true)](https://github.com/pirateorno/screen-camera-capture)
 
 <!--
 **pirateorno/pirateorno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
