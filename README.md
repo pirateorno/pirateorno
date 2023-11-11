@@ -1,5 +1,5 @@
 # Hello! My name is Sasha and I am a python developer. I also know c# (for unity), lua (for roblox and gmod), other languages I use you can see below
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirateorno&layout=donut)
 
 ## My github stats:
 ![pirateorno's GitHub stats](https://github-readme-stats.vercel.app/api?username=pirateorno&theme=dark&show_icons=true)
