@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![pirateorno's GitHub stats](https://github-readme-stats.vercel.app/api?username=pirateorno$theme=dark)](https://github.com/pirateorno/pirateorno)
+[![pirateorno's GitHub stats](https://github-readme-stats.vercel.app/api?username=pirateorno&theme=dark)]
 
 <!--
 **pirateorno/pirateorno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
