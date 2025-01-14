@@ -1,4 +1,4 @@
-# Hello! My name is Sasha and I am a web developer (i think). I also know c# (for unity), lua (for roblox and gmod), other languages I use you can see below
+# Hello! My name is Sasha and I am a developer. I also know c# (for unity), lua (for roblox and gmod), other languages I use you can see below
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirateorno&langs_count=5&layout=donut&theme=dark&hide=java)
 
 ## My github stats:
